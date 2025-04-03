@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there! 👋 I'm Daniel
 
-<!--
-**dnieblesdev/dnieblesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** passionate about backend development, currently improving my frontend skills. I love building web applications, optimizing code structure, and learning new technologies.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 **Systems Engineer** | Graduated from **Corporación Universitaria LatinoAmericana**.
+- 🖥️ **Tech Stack:** Python (Flask), Java, C#, PHP, MySQL, and currently exploring Angular.
+- 🏗️ **Building:** A web application for schools to manage grades, reports, and more.
+- 🎯 **Learning:** UI/UX principles, software architecture, and data analysis.
+- 👀 **Looking for:** new opportunities to grow!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Let's connect and create something amazing! 🚀
